@@ -1,0 +1,9 @@
+
+
+Instructions:
+
+1- This is a maven project so you won't need to add any libraries or drivers
+
+2- To run all test scripts just go to 
+
+src --> test --> java --> TestByFeatureFileBDD --> TestSubscriptionPackagesData.feature 

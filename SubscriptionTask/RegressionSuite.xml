@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="RegressionSuite" thread-count="1" verbose="1">
+    <test name="RegressionTest">
+        <classes>
+
+            <class name="tests.TestByTestNG.TestDemo"/>
+
+        </classes>
+    </test>
+</suite>
